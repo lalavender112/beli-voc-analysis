@@ -1,0 +1,14 @@
+data/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+
+# Secrets
+.env
+.env.*
+
+# macOS / Office junk
+.DS_Store
+~$*
